@@ -1,3 +1,3 @@
 # my-website
 
-[website](http://aineoh.github.io/fmm-webpage/cvpage.html)
+[website](http://aineoh.github.io/my-website/index.html)
